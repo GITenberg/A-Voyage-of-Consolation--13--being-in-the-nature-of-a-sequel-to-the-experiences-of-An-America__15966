@@ -1,0 +1,36 @@
+_repo: A-Voyage-of-Consolation--13--being-in-the-nature-of-a-sequel-to-the-experiences-of-An-America__15966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duncan, Sara Jeannette
+    aliases:
+    - Grafton, Garth
+    - Cotes, Mrs. Everard
+    - Cotes, V. Cecil
+    - Wintergreen, Jane
+    - Cotes, Everard, Mrs.
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '542'
+    url: http://www.gutenberg.org/2009/agents/542
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Jeannette_Duncan
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Voyages and travels -- Fiction'
+title: "A Voyage of Consolation\r\n(being in the nature of a sequel to the experiences\
+  \ of 'An American girl in London')"
+url: http://www.gutenberg.org/ebooks/15966
