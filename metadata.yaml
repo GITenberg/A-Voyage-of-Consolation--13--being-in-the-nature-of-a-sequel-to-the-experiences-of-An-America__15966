@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/542
     wikipedia: http://en.wikipedia.org/wiki/Sara_Jeannette_Duncan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15966#A-Voyage-of-Consolation--13--being-in-the-nature-of-a-sequel-to-the-experiences-of-An-America_
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
